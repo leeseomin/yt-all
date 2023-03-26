@@ -14,10 +14,18 @@ This application uses the following libraries:
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp): A command-line program to download videos and audio from YouTube and other sites. Licensed under the [Unlicense](https://unlicense.org/).
 
 
+## Dependencies install needed
+
+
+```bash
+pip install yt-dlp
+```
+
 
 ## RUN
 
 ```bash
+
 python v012.py
 ```
 
