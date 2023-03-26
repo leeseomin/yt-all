@@ -13,7 +13,7 @@ This application uses the following dependencies:
 
 
 
-## run : Execute Python code in the main folder
+## run : in the main folder
 
 ```bash
 python v005.py
