@@ -2,7 +2,7 @@
 
 
 
-![대표](https://github.com/leeseomin/yt-all/blob/main/pic/2.png)
+![대표](https://github.com/leeseomin/yt-all/blob/main/pic/3.png)
 
 
 ## Dependencies
