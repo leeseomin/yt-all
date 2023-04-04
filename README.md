@@ -18,6 +18,7 @@ This application uses the following libraries:
 
 
 ```bash
+pip install youtube-transcript-api
 pip install yt-dlp
 ```
 
